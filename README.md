@@ -1,9 +1,10 @@
 Repository Title: MyECommerceBackEnd                    ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
-Description
+
+##Description
     - This allows companies to effectively sell their products online easily to their customers 
     - From this project I learned how to configure a working Express.js API and use sequilize with MySql database 
 
-Table of Contents
+##Table of Contents
     - [Installation](#installation)
     - [Usage](#usage)
     - [Credits](#credits)
